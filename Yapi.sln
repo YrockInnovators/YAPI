@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yapi.Web", "Yapi.Web\Yapi.Web.csproj", "{79008EBC-3E79-4A97-927A-3BB4CA5C66F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yapi.EF", "Yapi.EF\Yapi.EF.csproj", "{ED4768CB-BADF-4C00-B31D-532AD7EACC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79008EBC-3E79-4A97-927A-3BB4CA5C66F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79008EBC-3E79-4A97-927A-3BB4CA5C66F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79008EBC-3E79-4A97-927A-3BB4CA5C66F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79008EBC-3E79-4A97-927A-3BB4CA5C66F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4768CB-BADF-4C00-B31D-532AD7EACC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4768CB-BADF-4C00-B31D-532AD7EACC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4768CB-BADF-4C00-B31D-532AD7EACC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4768CB-BADF-4C00-B31D-532AD7EACC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A3D492B-8BC7-4A3D-8CAF-AD7430AA24BC}
+	EndGlobalSection
+EndGlobal
